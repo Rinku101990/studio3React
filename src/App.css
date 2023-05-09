@@ -1,0 +1,343 @@
+/* body {
+  background: #fff;
+  height: 100%;
+  text-rendering: optimizeLegibility;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  font-family: -apple-system, BlinkMacSystemFont, Roboto, "Segoe UI", Helvetica,
+    Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol";
+  font-size: 16px;
+  font-weight: normal;
+  overflow-x: hidden;
+  line-height: 1.65;
+} */
+
+/* body h1,
+body h2,
+body h3:not(.widget-title):not(.comment-reply-title),
+body h4:not(.heading-md),
+body .dynamic-text,
+body .dynamic-text b,
+.hamburger-nav .menu .mega-menu-item > a span {
+  font-weight: 400;
+  font-family: "blacker_pro_display-regular";
+}
+body h1,
+body h2,
+body h3 {
+  letter-spacing: -0.02em;
+}
+body h4,
+body h5,
+body h6 {
+  letter-spacing: 0;
+}
+
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+  clear: both;
+  font-family: "Space Grotesk Bold", -apple-system, BlinkMacSystemFont, Roboto,
+    "Segoe UI", Helvetica, Arial, sans-serif, "Apple Color Emoji",
+    "Segoe UI Emoji", "Segoe UI Symbol";
+  font-weight: bold;
+  text-align: inherit;
+  position: relative;
+  color: #17161a;
+  letter-spacing: -0.01em;
+}
+
+h4 {
+  font-size: -webkit-calc(24px + 2 * ((100vw - 576px) / 1024));
+  font-size: calc(24px + 2 * ((100vw - 576px) / 1024));
+  line-height: 1.35;
+} */
+
+/* .page-container:not(.-full-w) {
+  max-width: 1140px;
+} */
+
+/* .vc_custom_1650549161842 - Home First Banner Section */
+.studio3MainBanner {
+  background-image: url(/public/studioCanvas/studio3Home.jpg) !important;
+  background-position: center !important;
+  background-repeat: no-repeat !important;
+  background-size: cover !important;
+}
+
+/* .vc_custom_1603982490818 - Home Second Section */
+.studio3SecondDivSection {
+  background-color: #1a1b1f !important;
+}
+/* #ohio-custom-642ac08913cd6 */
+#Studio3MainRightWrapper {
+  color: #ffffff;
+}
+/* #ohio-custom-642ac08913610.button  */
+.studio3MainLeftWrapper.button {
+  color: #ffffff !important;
+}
+/* #ohio-custom-642bc2f1a2e4c  */
+#studio3MailLeftTextWrapper h1 {
+  font-size: 100px;
+  font-weight: 400;
+  color: #ffffff;
+}
+/* .icon-button:not(.-reset):not(.-overlay-button) {
+  color: #000;
+} */
+.icon-button:not(.-reset):not(.-overlay-button):hover {
+  color: #f0c708 !important;
+}
+
+.title {
+  color: #fff;
+}
+
+.subtitle {
+  color: #fff;
+}
+
+.social-bar .titles-typo {
+  color: #ffffff;
+}
+
+.btn.-text,
+.button.-text,
+a.button.-text,
+button[type="submit"].-text,
+input[type="submit"].-text {
+  background-color: transparent;
+  border: none;
+  padding: 0;
+  min-height: initial;
+  -webkit-transition-delay: 0s !important;
+  -o-transition-delay: 0s !important;
+  transition-delay: 0s !important;
+  font-size: 1em;
+  -webkit-border-radius: 1px;
+  border-radius: 1px;
+  -webkit-box-shadow: 0 0 0 0.6rem transparent;
+  box-shadow: 0 0 0 0.6rem transparent;
+}
+
+.studio3SecondDivSectionVideo {
+  padding-top: 40px !important;
+  padding-right: 40px !important;
+  padding-bottom: 40px !important;
+  padding-left: 40px !important;
+  background-color: #f0c708 !important;
+}
+
+#studio3SecondDivSectionVideoText > * {
+  font-size: 14px;
+  font-weight: 600;
+  color: #ffffff;
+  text-transform: uppercase;
+}
+.studioHappyClientBoxOne1 {
+  padding-right: 40px !important;
+  padding-left: 40px !important;
+}
+.studioHappyClientBoxTwo1 {
+  padding-right: 40px !important;
+  padding-left: 40px !important;
+}
+.studioHappyClientsBoxTwo2 {
+  padding-right: 40px !important;
+  padding-left: 40px !important;
+  background-color: rgba(26, 27, 31, 0.9) !important;
+  *background-color: rgb(26, 27, 31) !important;
+}
+
+p {
+  width: 100%;
+  /* margin: 10px auto; */
+  display: block;
+}
+*,
+*:before,
+*:after {
+  -webkit-box-sizing: border-box;
+  box-sizing: border-box;
+  -ms-word-wrap: break-word;
+  word-wrap: break-word;
+}
+
+#studio3SecondDivSectionVideoTextDesc {
+  text-align: left;
+  font-size: 46px;
+  line-height: 48px;
+  font-weight: 400;
+  color: #ffffff;
+}
+
+#studio3SecondDivSectionServiceButton {
+  color: #ffffff;
+}
+
+/* .brand-color,
+a:not(.-unlink):not(.-highlighted):hover,
+a:not(.-unlink):not(.-highlighted):hover .title,
+a:not(.-unlink):not(.-highlighted):active,
+a:not(.-unlink):not(.-highlighted):active .title,
+a:not(.-unlink):not(.-highlighted):focus,
+a:not(.-unlink):not(.-highlighted):focus .title,
+.nav .nav-item.active-main-item > a,
+.nav .nav-item.active > a,
+.nav .current-menu-ancestor > a,
+.nav .current-menu-item > a,
+.hamburger-nav .menu li.current-menu-ancestor > a > span,
+.hamburger-nav .menu li.current-menu-item > a > span,
+.widget_rss a,
+.single-post .entry-content a:not(.wp-block-button__link),
+.page-id-124 .entry-content a:not(.wp-block-button__link),
+ul:not(.-unlist) > li::before,
+ol:not(.-unlist) > li::before,
+.social-networks.-outlined .network:hover,
+.portfolio-filter a.active,
+.category-holder:not(.no-divider):after,
+.video-button.-outlined .icon-button:hover,
+.comments .comment-body time:after,
+.button.-outlined:not(.-pagination):hover,
+a.button.-outlined:not(.-pagination):hover,
+.button.-outlined:active,
+.button.-outlined:focus,
+.pagination .button:hover,
+.pagination.-outlined a.button:not(.-flat):hover,
+.pricing-table-features .exist .icon,
+.service-table-features .exist .icon,
+.lazy-load.-outlined .button.-pagination:hover,
+.lazy-load.-flat .button.-pagination:hover,
+.button.-primary.-outlined,
+a.button.-primary.-outlined,
+.button.-primary.-flat,
+a.button.-primary.-flat,
+.button.-primary.-text,
+a.button.-primary.-text {
+  color: #f0c708;
+} */
+
+/* Home eight Section css */
+
+#subTitleTitleDivSection .subtitleEightSection {
+  font-size: 14px;
+  font-weight: 600;
+  color: #604d3c;
+  text-transform: uppercase;
+}
+.subtitleEightSection {
+  font-weight: 500;
+}
+.titleEightSection .subtitleEightSection {
+  color: #17161a;
+  padding-top: 0.15em;
+}
+.studio3TextParaTop {
+  line-height: 10px;
+}
+#studioTextPara {
+  /* font-size: 1.05em; */
+  font-size: 18px;
+  font-weight: 700;
+}
+/* Home Client Section */
+
+.studioOfficeBanner {
+  background-image: url(/public/studioCanvas/studioHomeOffice.jpg) !important;
+  background-position: center !important;
+  background-repeat: no-repeat !important;
+  background-size: cover !important;
+}
+
+.studio3HomeBannerClientBox {
+  padding-right: 40px !important;
+  padding-left: 40px !important;
+  background-color: rgba(240, 199, 8, 0.95) !important;
+  *background-color: rgb(240, 199, 8) !important;
+}
+
+#studio3HomeClientBoxText {
+  color: #fff;
+  text-transform: uppercase;
+  font-weight: 800;
+}
+#servicesCapability > * {
+  font-size: 17px;
+  font-weight: 500;
+}
+
+/* Home Six Section */
+.studioSixSectionBanner {
+  background-image: url(/public/studioCanvas/studio3HomeSixSectionBanner.jpg) !important;
+  background-position: center !important;
+  background-repeat: no-repeat !important;
+  background-size: cover !important;
+}
+#studio3HomeSixSectionAboutus h2 {
+  font-size: 56px;
+  font-weight: 400;
+  color: #ffffff;
+}
+.subtitleSixSection {
+  font-size: 14px;
+  color: #ffffff;
+  text-transform: uppercase;
+  font-weight: 700;
+}
+
+.studio3SevenSection {
+  background-color: rgba(242, 242, 242, 0.57) !important;
+  *background-color: rgb(242, 242, 242) !important;
+}
+
+.studioCustomLayoutAdjustTopBottom {
+  margin-left: 60px !important;
+  /* margin-left: 35px !important; */
+}
+
+.studioCustomLayoutAdjustFooterArea {
+  margin-left: 40px !important;
+  /* margin-left: 20px !important; */
+}
+
+/* .studio3FooterSiteTitle {
+  font-size: 25px;
+  font-family: sans-serif !important;
+  font-weight: 600 !important;
+  color: #f0c708;
+} */
+
+.hamburger.icon-button > .icon:hover {
+  color: #f0c708;
+}
+
+#Section03ServicesArea h3 {
+  font-size: 26px;
+  font-weight: 400;
+}
+
+/* Services Page CSS */
+#studio3ServiceTitleH6 {
+  font-weight: 800;
+  font-family: system-ui;
+}
+
+/* Home Social Icon Circle */
+#studio3SocialIconCircle {
+  /* background-color: transparent; */
+  border: 1px solid rgba(136, 136, 136, 0.65);
+  height: 42px;
+  border-radius: 48%;
+  -moz-border-radius: 50%;
+  -webkit-border-radius: 50%;
+  width: 42px;
+}
+
+#studio3CustomBtnLink:hover {
+  background-color: #fff;
+  color: rgb(240, 199, 8);
+}

@@ -1,0 +1,36 @@
+/* h1 {
+  font-size: calc(46px + 26 * ((100vw - 576px) / 1024));
+  line-height: 1;
+  letter-spacing: -0.03em;
+} */
+.titleAboutUs1 {
+  color: black;
+  font-size: 62px;
+  font-weight: 600;
+}
+.subTitleAboutUs1 {
+  margin-top: 20px;
+  font-size: 0.9em;
+  font-weight: 600;
+  color: rgba(35, 34, 38, 0.8);
+}
+.titleAboutUs {
+  color: #fff;
+  font-size: 62px;
+  font-weight: 600;
+}
+.subTitleAboutUs {
+  margin-top: 20px;
+  font-size: 0.9em;
+  font-weight: 600;
+  color: #fff;
+}
+.studioAboutSectionBanner {
+  background-image: url(/public/studioCanvas/studio3HomeSixSectionBanner.jpg) !important;
+  background-position: center !important;
+  background-repeat: no-repeat !important;
+  background-size: cover !important;
+}
+.studio3AboutGetReadyBottom {
+  background-color: #1a191d !important;
+}
